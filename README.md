@@ -1,4 +1,4 @@
-# 👋 Hi, I'm AAnnayev
+#  Hi, I'm Atajan
 
 **Senior Full-Stack QA Engineer** | Test Automation | 5+ Years Experience
 
