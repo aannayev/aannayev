@@ -1,15 +1,17 @@
 # 👋 Hi, I'm AAnnayev
 
-**QA Engineer** | Test Automation | Security Testing
+**Senior Full-Stack QA Engineer** | Test Automation | 5+ Years Experience
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently preparing for FAANG interviews
-- 🌱 Learning Security Testing & OWASP Top 10
-- 💼 Experience with Playwright, Selenium, API Testing
+- 💼 **5+ years** of commercial QA experience, **3+ years** in test automation
+- 🎯 E2E, API, and Database testing specialist
+- 🔧 JavaScript-based automation (Playwright, Cypress)
+- 🚀 CI/CD quality gates & release quality ownership
 - 📝 I write articles about QA at **[annayev.com](https://www.annayev.com)**
+- 🌍 English B2+ | Russian fluent
 
 ---
 
